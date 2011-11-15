@@ -7,7 +7,8 @@
     <body>
         <?php
         // put your code here
+        print 'ciao!';
         ?>
-        Test cpcadv 2
+        Test cpcadv 2.
     </body>
 </html>
